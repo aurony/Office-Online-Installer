@@ -17,7 +17,7 @@
  Product keys
  <https://docs.microsoft.com/deployoffice/ltsc2021>
 
-- CMD/Terminal/PowerShell (Online Tool) Activation
+- CMD/Terminal/PowerShell (Online Tool) for Activation:
 
 irm https //get.activated.win | iex
 
